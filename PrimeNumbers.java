@@ -1,3 +1,4 @@
+//author -(Shubham Sharma)
 import java.util.Scanner;
 
 public class PrimeNumbers {
